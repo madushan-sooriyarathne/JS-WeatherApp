@@ -1,5 +1,5 @@
 
-const API_KEY = 9f3311a42d6bc9a76aceaf1c65f28d41;
+const API_KEY = 'YOUR_API_KEY_HERE';
 
 
 function farenheitToCelcius(temp) {
